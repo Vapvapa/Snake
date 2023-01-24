@@ -1,6 +1,7 @@
 target/
-out
+
 ### IntelliJ IDEA ###
+out/
 .idea
 *.iws
 *.iml
