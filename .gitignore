@@ -2,5 +2,7 @@ target/
 
 ### IntelliJ IDEA ###
 out/
+.idea
 *.iws
+*.iml
 *.ipr
